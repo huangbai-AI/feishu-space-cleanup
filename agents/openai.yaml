@@ -1,0 +1,4 @@
+interface:
+  display_name: "飞书空间瘦身"
+  short_description: "备份素材、核验副本、修复旧链接与分享权限，完整保留内容后整理飞书空间"
+  default_prompt: "请用 $feishu-space-cleanup 整理我的飞书空间，先盘点并核验备份，再处理原件与链接。"
